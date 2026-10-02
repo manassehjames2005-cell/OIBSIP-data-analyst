@@ -109,17 +109,6 @@ Based on the findings from the EDA, specific recommendations are provided to:
 
 > **Note:** The final recommendations are based on the actual findings obtained from the dataset and visualizations in the Jupyter Notebook.
 
-### 📂 Project Files
-
-```text
-Retail Sales EDA/
-│
-├── Retail_Sales_EDA.ipynb
-├── retail_sales_dataset.csv
-├── screenshots/
-└── README.md
-```
-
 ### ▶️ How to Run
 
 1. Download or clone this repository.
